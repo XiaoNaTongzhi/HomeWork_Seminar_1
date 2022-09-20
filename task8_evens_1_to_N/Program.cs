@@ -11,7 +11,7 @@ while (a <= n)
 {
     if (a % 2 == 0)
     {
-        Console.Write($"{a}, ");
-        a++;
+        Console.Write($"{a} ");
     }
+     a++;
 }
