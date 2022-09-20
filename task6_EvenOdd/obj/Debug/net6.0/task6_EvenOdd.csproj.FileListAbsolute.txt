@@ -1,0 +1,15 @@
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Seminar_1\task6_EvenOdd\bin\Debug\net6.0\task6_EvenOdd.exe
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Seminar_1\task6_EvenOdd\bin\Debug\net6.0\task6_EvenOdd.deps.json
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Seminar_1\task6_EvenOdd\bin\Debug\net6.0\task6_EvenOdd.runtimeconfig.json
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Seminar_1\task6_EvenOdd\bin\Debug\net6.0\task6_EvenOdd.dll
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Seminar_1\task6_EvenOdd\bin\Debug\net6.0\task6_EvenOdd.pdb
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Seminar_1\task6_EvenOdd\obj\Debug\net6.0\task6_EvenOdd.csproj.AssemblyReference.cache
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Seminar_1\task6_EvenOdd\obj\Debug\net6.0\task6_EvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Seminar_1\task6_EvenOdd\obj\Debug\net6.0\task6_EvenOdd.AssemblyInfoInputs.cache
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Seminar_1\task6_EvenOdd\obj\Debug\net6.0\task6_EvenOdd.AssemblyInfo.cs
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Seminar_1\task6_EvenOdd\obj\Debug\net6.0\task6_EvenOdd.csproj.CoreCompileInputs.cache
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Seminar_1\task6_EvenOdd\obj\Debug\net6.0\task6_EvenOdd.dll
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Seminar_1\task6_EvenOdd\obj\Debug\net6.0\refint\task6_EvenOdd.dll
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Seminar_1\task6_EvenOdd\obj\Debug\net6.0\task6_EvenOdd.pdb
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Seminar_1\task6_EvenOdd\obj\Debug\net6.0\task6_EvenOdd.genruntimeconfig.cache
+C:\Users\XPS\Desktop\ИНФОРМАТИКА\C#\Seminar_1\task6_EvenOdd\obj\Debug\net6.0\ref\task6_EvenOdd.dll
